@@ -12,7 +12,7 @@ Hi there 👋 I'm Saranja Navaneethakumar
 
 📌 Featured Projects  
 
-🎥 [Movie Recommendation System]
+🎥 [Movie Recommendation System](https://github.com/Saranja-Navaneethakumar/Hybrid-Movie-recommendation)
 Hybrid recommender system using MLP, SVD, KNN, and TF-IDF for content-based filtering.  
 Tech: Python, TensorFlow, Scikit-learn, Surprise, Pandas, Matplotlib  
 
