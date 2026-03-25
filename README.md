@@ -1,6 +1,6 @@
 Hi there 👋 I'm Saranja Navaneethakumar  
 
-MSc Computer Science Student @ University College Birmingham  
+MSc Computer Science graduate with **Distinction** from University College Birmingham  
 Passionate about **Full-Stack Development, Data Analytics, and Machine Learning**  
 Based in London, UK | Open to roles in **Software Development, Data Science and AI/ML**
 
