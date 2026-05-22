@@ -22,12 +22,15 @@ A hybrid recommendation system using collaborative filtering and deep learning t
 Tech: Python, TensorFlow, Scikit-learn, Surprise, Pandas, Matplotlib  
 
 ### [Travel Website](https://github.com/Saranja-Navaneethakumar/VoyageLanka) 
+
 Full-stack travel booking website with Firebase integration and Netlify deployment.
+
 https://voyagelankatravel.netlify.app/
+
 Tech: HTML, CSS, JavaScript, Firebase    
 
 ### [Banking Application](https://github.com/Saranja-Navaneethakumar/BankingApplication-Streamlit)  
-Simple banking system applying OOP principles with Python + Streamlit.  
+Simple banking system applying OOP principles.
 Tech: Python + Streamlit.  
 
 ### [Restaurant Dashboard](https://github.com/Saranja-Navaneethakumar/Flavour-Hive-PowerBI)
