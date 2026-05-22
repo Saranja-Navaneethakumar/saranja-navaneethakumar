@@ -1,8 +1,7 @@
-Hi there 👋 I'm Saranja Navaneethakumar  
+#Hi, I'm Saranja Navaneethakumar  
 
 MSc Computer Science graduate with **Distinction** from University College Birmingham  
-Passionate about **Full-Stack Development, Data Analytics, and Machine Learning**  
-Based in London, UK | Open to roles in **Software Development, Data Science and AI/ML**
+Graduate Software Engineer | Full-Stack Developer
 
 Tech Stack  
 - Languages & Frameworks: Python | Java | PHP | C# | JavaScript | Angular | .NET | Laravel | Streamlit | Visual Basic  
