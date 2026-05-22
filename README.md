@@ -1,4 +1,4 @@
-#Hi, I'm Saranja Navaneethakumar  
+# Hi, I'm Saranja Navaneethakumar  
 
 MSc Computer Science graduate with **Distinction** from University College Birmingham  
 Graduate Software Engineer | Full-Stack Developer
